@@ -49,7 +49,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     // 初始化数据
     public void initContacts() {
         Contact contact;
-        contact = new Contact("123456789","李国健","男");
+        contact = new Contact("123456789","C++","男");
         contactList.add(contact);
         contact = new Contact("123123123","JAVA","女");
         contactList.add(contact);
