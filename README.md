@@ -3,7 +3,7 @@
 ## 实验内容：
 ### 1.读取手机联系人信息，并用ListView显示。显示界面布局如下所示。（给出读取联系人列表的实现）。
 
-![image](https://user-images.githubusercontent.com/73776665/174310600-7cbe3800-02fa-4941-b3f2-83c7d6411d18.png)
+![image](https://user-images.githubusercontent.com/73776665/174312543-5ab69021-df9c-4a05-921f-6138c7fc70ce.png)
 
 
 
